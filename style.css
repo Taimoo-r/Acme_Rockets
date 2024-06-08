@@ -1,0 +1,13 @@
+
+@media (min-width:  400px) {
+    .para{
+        font-size: 18px;
+    }
+    #rocket{
+        flex-direction: row;
+    }
+    #hero{
+        min-height: calc(100vh - 68px);
+
+    }
+}
